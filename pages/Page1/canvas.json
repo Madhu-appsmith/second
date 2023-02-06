@@ -337,7 +337,7 @@
                   "textSize": "PARAGRAPH"
                 },
                 "customColumn2": {
-                  "index": 7,
+                  "index": 0,
                   "width": 150,
                   "id": "customColumn2",
                   "columnType": "text",
@@ -347,10 +347,18 @@
                   "isDisabled": false,
                   "isCellVisible": true,
                   "isDerived": true,
-                  "label": "customColumn2",
+                  "label": "new column",
                   "computedValue": "",
                   "buttonStyle": "rgb(3, 179, 101)",
-                  "labelColor": "#FFFFFF"
+                  "labelColor": "#FFFFFF",
+                  "title": "customColumn2",
+                  "field": "customColumn2",
+                  "headerFilter": true,
+                  "textColor": "",
+                  "dateFormat": "",
+                  "horizontalAlignment": "LEFT",
+                  "verticalAlignment": "CENTER",
+                  "textSize": "PARAGRAPH"
                 }
               },
               "saveButton": "Save",
@@ -384,7 +392,7 @@
                   "isDisabled": false,
                   "isCellVisible": true,
                   "isDerived": true,
-                  "label": "customColumn2",
+                  "label": "new column",
                   "computedValue": "",
                   "buttonStyle": "rgb(3, 179, 101)",
                   "labelColor": "#FFFFFF"
