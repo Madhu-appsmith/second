@@ -268,7 +268,7 @@
                   "id": "col",
                   "horizontalAlignment": "LEFT",
                   "verticalAlignment": "CENTER",
-                  "columnType": "text",
+                  "columnType": "input",
                   "textSize": "PARAGRAPH",
                   "enableFilter": true,
                   "enableSort": true,
@@ -284,7 +284,8 @@
                   "tooltip": true,
                   "headerTooltip": true,
                   "textColor": "",
-                  "dateFormat": ""
+                  "dateFormat": "",
+                  "isRequired": ""
                 },
                 "dob": {
                   "index": 0,
