@@ -27,7 +27,7 @@
           "leftColumn": 0,
           "children": [
             {
-              "newButtonColor": "#457AE6",
+              "newButtonColor": "#03b365",
               "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",
               "resetButtonEnable": true,
               "isCanvas": false,
@@ -164,7 +164,7 @@
                   "key": "onResetClick"
                 }
               ],
-              "resetButtonColor": "#B0BFCB",
+              "resetButtonColor": "#03b365",
               "primaryColumns": {
                 "name": {
                   "index": 0,
